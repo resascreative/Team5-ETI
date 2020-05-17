@@ -1,0 +1,822 @@
+
+.blue {
+   
+    background-color: #47BFBD;
+    -webkit-clip-path: polygon(0 0, 100% 0%, 100% 100%, 0 85%);
+clip-path: polygon(0 0, 100% 0%, 100% 100%, 0 85%);
+    padding: 50px 0px 80px 0px; 
+    margin: 0px; 
+    
+   
+}
+
+.blue2 {
+
+    background-color: #47BFBD;
+    margin-top: 25px;
+    padding: 15px 0 15px 0;
+
+}
+
+#edmattersdiv {
+    padding-top: 0px;
+    padding-bottom: 0px
+}
+
+
+article:nth-of-type(2) { 
+    background-color: #FC7F46;
+    -webkit-clip-path: polygon(0 9%, 100% 0, 100% 100%, 0 100%);
+    clip-path: polygon(0 9%, 100% 0, 100% 100%, 0 100%); 
+    padding: 50px 0  0 35px; 
+
+}
+
+#stdntp1 {
+    background-color: #FC7F46; 
+    font-family: bebas-neue-by-fontfabric, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    padding: 30px 0 30px 0; 
+   color: white; 
+   margin-bottom: 30px;
+  
+
+}
+
+ 
+
+#topbar {
+    background-color: #47BFBD;
+    color: white; 
+    font-family: futura-pt, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    height: 5rem;
+    padding-right: 4rem;
+    font-size: 1.5rem;
+}
+
+.footer {
+    background-color: #505050; 
+    /** -webkit-clip-path: polygon(0 0, 100% 7%, 100% 100%, 0 100%);
+    clip-path: polygon(0 0, 100% 7%, 100% 100%, 0 100%); **/
+    color: white; 
+
+
+}
+.demi {
+    font-family: futura-pt, sans-serif;
+font-weight: 600;
+font-style: normal;
+color: #47BFBD;
+}
+.nav {
+    font-family: futura-pt, sans-serif;
+font-weight: 600;
+font-style: normal;
+color: #47BFBD;
+font-size: 2.5rem;
+
+}
+
+li.nav-item > a {
+    color: #505050;
+
+}
+
+li.nav-item > a:hover {
+    color: #FC7F46;
+    background-color: white;
+}
+nav {
+padding: 1rem;
+}
+
+#logo {
+    width: 100%;
+    height:auto; 
+    padding-top: 20px;
+}
+/*make carousel responsive*/
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
+/*position carousel caption*/
+.carousel-caption {
+    right: 5%;
+    text-align: right;
+    max-width: 300px;
+    left: auto;
+    padding:5px;
+    padding-bottom: 30%;
+}
+
+/* Darren's Markup */
+#employertab {
+    -webkit-clip-path: polygon(0 0, 80% 0, 100% 100%, 0% 100%);
+clip-path: polygon(0 0, 80% 0, 100% 100%, 0% 100%);
+padding: 50px 0 50px 0;
+background-color: #FC7F46;
+font-family: futura-pt, sans-serif;
+font-weight: 600;
+font-style: normal;
+color: #47BFBD;
+}
+#studenttab {
+    -webkit-clip-path: polygon(20% 0, 100% 0, 100% 100%, 0% 100%);
+clip-path: polygon(20% 0, 100% 0, 100% 100%, 0% 100%);
+background-color: #FC7F46;
+padding: 50px 0 50px 0;
+font-family: futura-pt, sans-serif;
+font-weight: 600;
+font-style: normal;
+color: #47BFBD;
+}
+
+footer {
+    font-family: futura-pt, sans-serif;
+font-weight: 300;
+font-style: normal;
+padding-bottom: 30px;
+padding-top: 30px
+}
+footer h4 {
+    font-family:  futura-pt, sans-serif;
+font-weight: 500;
+font-style: normal;
+   
+}
+button {
+    border-radius: 0px;
+    color: white;
+}
+#readmore {
+    background-color: #FC7F46;
+    color: white;
+}
+
+/** Omar's Markup**/
+
+.headers {
+    font-family: futura-pt, sans-serif;
+font-weight: 800;
+font-style: normal;
+font-size: 5rem;
+border-bottom: 5px solid black;
+
+}
+
+article p, main p, div p, div ul {
+    font-family: futura-pt, sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+
+#studentheader {
+    font-size: 4.0rem; 
+} 
+
+.whitespace{
+    /** background-image: url(/images/whitespace_pattern.svg);
+     -webkit-clip-path: polygon(0 0, 100% 20%, 100% 78%, 0 100%);
+    clip-path: polygon(0 0, 100% 20%, 100% 78%, 0 100%); **/
+    padding: 120px 0 50px 0 ;
+    margin: 0px;
+
+}
+
+h4 {
+    font-family: futura-pt, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+   
+    
+}
+
+/*  ABOUT PAGE MARKUP */
+
+#abouteti { 
+
+  
+    padding-bottom: 75px;
+
+}
+
+#missioneti {
+ 
+    height: 340px;
+    background-color: #FC7F46;
+    clip-path: polygon(
+      0 10%,
+      100% 0,
+      100% 100%,
+      0 calc(100% - 5vw)
+    );
+    padding-top:30px;
+    
+  }
+  
+#partnereti {
+      margin-top: -5vw;
+      background-color: #47BFBD;
+      padding-top: 50px;
+  }
+
+#intro {
+    text-align: center; 
+}
+
+.container-fluid {
+    padding: 0; 
+}
+
+#homeAbout {
+    padding: 50px 0 50px 0;
+}
+
+hr {
+    background-color: #FC7F46;
+
+  height: 2px;
+  border-top: 1px solid #FC7F46
+}
+
+h4 > a:active {
+    color: #FC7F46;
+}
+
+
+
+/****** HEADER STYLING ***/
+
+#aboutheader, #feebasedheader {
+    color: #47BFBD;
+    border-bottom: 5px solid #FC7F46;
+}
+
+#missionheader, #partnerheader, #contractheader, #stepsheader{
+    color: white;
+    border-bottom: 5px solid white; 
+}
+
+#edmattersheader {
+    color: #FC7F46;
+    border-bottom: 5px solid #47BFBD; 
+}
+
+
+
+/** Font Stylies **/
+
+.blacktext {
+    font-size: 2rem; 
+}
+
+.whitetext {
+    font-size:2rem;
+    color: white;
+}
+
+.panel-group {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: white; 
+    
+}
+
+h4:active {
+    color: #FC7F46
+}
+
+.panel-heading {
+    color: white; 
+}
+
+.panel-default>.panel-heading {
+    background-color:white; 
+    color: #505050;
+    
+}
+
+
+/************ HOME PAGE - INDUSTRIES WE SERVE MARKUP **********/
+
+.image {
+    opacity: 1;
+    
+    width: 100%;
+    height: auto;
+    transition: .5s ease;
+    backface-visibility: hidden;
+  }
+  
+  .middle {
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+  }
+  
+  .overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #505050;
+}
+
+  
+.text {	
+    color: #000;	
+    font-family: futura-pt, sans-serif;	
+    width: 90%;	
+    position: absolute;	
+    top: 50%;	
+    font-weight: 700;	
+    font-style: normal;	
+    left: 50%;	
+    transform: translate(-50%, -50%);	
+    text-align: center;	
+}	
+  .johndoe:hover .image {	
+    opacity: 0.7;	
+    background-color: gray;	
+  }	
+  	
+  .johndoe:hover .middle {	
+    opacity: 0.7;	
+    	
+  }	
+  .test1:hover .overlay {	
+      opacity: 3;	
+      background-color: #505050	
+  }	
+
+
+
+  /* CAROUSEL ITEM*/
+
+.item {
+    height: 680px;
+    width: auto;
+}
+
+.carousel {
+    padding: 0px;
+}
+
+div > h3 {
+    font-family: bebas-neue-by-fontfabric, sans-serif;
+font-weight: 700;
+font-style: normal;
+font-size: 7.5rem;
+width: 800px;
+padding-left: 0px;
+padding-right: 100px;
+text-align: left;
+
+}
+  
+/*** BACKGROUND IMAGES TO PLAY WITH ***/ 
+
+
+
+	/* hamburger */	
+    li.dropdown {	
+        display: none; 	
+    }	
+    a {	
+        color: #000;	
+      }	
+          
+      /* header */	
+          
+      .header {	
+        width: 100%;	
+      }	
+          
+      .header ul {	
+        margin: 0;	
+        padding: 0;	
+        list-style: none;	
+        overflow: hidden;	
+      }	
+          
+      .header li a {	
+        display: block;	
+        padding: 20px 20px;	
+        text-decoration: none;	
+      }	
+          
+      .header li a:hover,	
+      .header .menu-btn:hover {	
+        background-color: #f4f4f4;	
+      }	
+          
+      .header .logo {	
+        display: block;	
+        float: left;	
+        font-size: 2em;	
+        padding: 10px 20px;	
+        text-decoration: none;	
+      }	
+          
+      /* menu */	
+          
+      .header .menu {	
+        clear: both;	
+        max-height: 0;	
+        transition: max-height .2s ease-out;	
+      }	
+          
+      /* menu icon */	
+          
+      .header .menu-icon {	
+        cursor: pointer;	
+        display: inline-block;	
+        float: right;	
+       
+        user-select: none;	
+      }	
+          
+      .header .menu-icon .navicon {	
+        background: #333;	
+        display: block;	
+        height: 2px;	
+        position: relative;	
+        transition: background .2s ease-out;	
+        width: 25px;	
+        margin-left: 240px;	
+        margin-top: 30px;	
+      }	
+          
+      .header .menu-icon .navicon:before,	
+      .header .menu-icon .navicon:after {	
+        background: #333;	
+        content: '';	
+        display: block;	
+        height: 100%;	
+        position: absolute;	
+        transition: all .2s ease-out;	
+        width: 100%;	
+      }	
+          
+      .header .menu-icon .navicon:before {	
+        top: 5px;	
+      }	
+          
+      .header .menu-icon .navicon:after {	
+        top: -5px;	
+      }	
+          
+      /* menu btn */	
+          
+      .header .menu-btn {	
+        display: none;	
+      }	
+          
+      .header .menu-btn:checked ~ .menu {	
+        max-height: 240px;	
+      }	
+          
+      .header .menu-btn:checked ~ .menu-icon .navicon {	
+        background: transparent;	
+      }	
+          
+      .header .menu-btn:checked ~ .menu-icon .navicon:before {	
+        transform: rotate(-45deg);	
+      }	
+          
+      .header .menu-btn:checked ~ .menu-icon .navicon:after {	
+        transform: rotate(45deg);	
+      }	
+          
+      .header .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:before,	
+      .header .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:after {	
+        top: 0;	
+      }	
+          
+      /* 48em = 768px */	
+          
+      @media (min-width: 48em) {	
+        .header li {	
+          float: left;	
+        }	
+        .header li a {	
+          padding: 20px 30px;	
+        }	
+        .header .menu {	
+          clear: none;	
+          float: right;	
+          max-height: none;	
+        }	
+        .header .menu-icon {	
+          display: none;	
+        }	
+      }
+
+
+
+
+/************** MEDIA QUERIES ****************/ 
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+    
+    .container-fluid {
+        padding: 0 10px 0 10px
+    
+    }
+    
+    
+    #topbar {
+        background-color: #47BFBD;
+        color: white; 
+        font-family: futura-pt, sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        height: 4rem;
+        padding-right: 4rem;
+        font-size: 1..0rem;
+    }
+    .nav {
+        font-family: futura-pt, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: #47BFBD;
+    font-size: 1.35rem;
+    
+    }
+    
+    .headers {
+        font-family: futura-pt, sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 3.0.0rem;
+    border-bottom: 5px solid black;
+    
+    }
+    
+    .blacktext {
+        font-size: 1.0rem; 
+    }
+    
+    .whitetext {
+        font-size:1.0rem;
+        color: white;
+    }
+    
+    #missioneti {
+     
+        height: 160px;
+        background-color: #FC7F46;
+        clip-path: polygon(
+          0 10%,
+          100% 0,
+          100% 100%,
+          0 calc(100% - 5vw)
+        );
+        padding-top:10px;
+        
+      }
+    
+      #studentheader {
+        font-size: 2.25rem; 
+    } 
+    .item {
+        height: 100%; 
+        width: auto
+    }
+    
+    
+    }
+    
+    /* Medium devices (tablets, less than 992px) */
+    @media (max-width: 991.98px) {
+    
+    /** FONTS **/
+    
+    #topbar {
+        background-color: #47BFBD;
+        color: white; 
+        font-family: futura-pt, sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        height: 4rem;
+        padding-right: 4rem;
+        font-size: 1.0rem;
+    }
+    .nav {
+        font-family: futura-pt, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: #47BFBD;
+    font-size: 1.25rem;
+    
+    }
+
+    
+    .headers {
+        font-family: futura-pt, sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 3.0rem;
+    border-bottom: 5px solid black;
+    
+    }
+    
+    .blacktext {
+        font-size: 0.9rem; 
+    }
+    
+    .whitetext {
+        font-size: 0.9rem;
+        color: white;
+    }
+    
+    #missioneti {
+     
+        height: 150px;
+        background-color: #FC7F46;
+        clip-path: polygon(
+          0 10%,
+          100% 0,
+          100% 100%,
+          0 calc(100% - 5vw)
+        );
+        padding-top:10px;
+        
+      }
+    
+      #studentheader {
+        font-size: 2.0rem; 
+    } 
+      
+    .item {
+        height: 300px;
+    }
+    
+    
+    }
+
+ }
+
+/* Small devices (landscape phones, less than 768px) */
+@media (max-width: 767.98px) {  
+/** FONTS **/
+.container-fluid {
+    padding: 0 10px 0 10px
+
+}
+
+
+#topbar {
+    background-color: #47BFBD;
+    color: white; 
+    font-family: futura-pt, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    height: 4rem;
+    padding-right: 4rem;
+    font-size: 1..0rem;
+}
+.nav {
+    font-family: futura-pt, sans-serif;
+font-weight: 600;
+font-style: normal;
+color: #47BFBD;
+font-size: 1.35rem;
+
+}
+
+.headers {
+    font-family: futura-pt, sans-serif;
+font-weight: 800;
+font-style: normal;
+font-size: 3.0.0rem;
+border-bottom: 5px solid black;
+
+}
+
+.blacktext {
+    font-size: 1.0rem; 
+}
+
+.whitetext {
+    font-size:1.0rem;
+    color: white;
+}
+
+#missioneti {
+ 
+    height: 160px;
+    background-color: #FC7F46;
+    clip-path: polygon(
+      0 10%,
+      100% 0,
+      100% 100%,
+      0 calc(100% - 5vw)
+    );
+    padding-top:10px;
+    
+  }
+
+  #studentheader {
+    font-size: 2.25.0rem; 
+} 
+.item {
+    height: 100%; 
+    width: auto
+}
+
+
+}
+
+/* Medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px) {
+
+/** FONTS **/
+
+#topbar {
+    background-color: #47BFBD;
+    color: white; 
+    font-family: futura-pt, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    height: 4rem;
+    padding-right: 4rem;
+    font-size: 1.2rem;
+}
+.nav {
+    font-family: futura-pt, sans-serif;
+font-weight: 600;
+font-style: normal;
+color: #47BFBD;
+font-size: 1.75rem;
+
+}
+
+.headers {
+    font-family: futura-pt, sans-serif;
+font-weight: 800;
+font-style: normal;
+font-size: 4.0rem;
+border-bottom: 5px solid black;
+
+}
+
+.blacktext {
+    font-size: 1.25rem; 
+}
+
+.whitetext {
+    font-size:1.25rem;
+    color: white;
+}
+
+#missioneti {
+ 
+    height: 220px;
+    background-color: #FC7F46;
+    clip-path: polygon(
+      0 10%,
+      100% 0,
+      100% 100%,
+      0 calc(100% - 5vw)
+    );
+    padding-top:10px;
+    
+  }
+
+  #studentheader {
+    font-size: 3.0rem; 
+} 
+  
+.item {
+    height: 480px;
+}
+
+
+}
+
+/* Large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) { ... }
+
+
+
+
+/** TEST **/
+
+
+
